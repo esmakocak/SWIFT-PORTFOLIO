@@ -66,6 +66,15 @@ Art Quiz is a fun and engaging iOS app that challenges your knowledge of art his
 ![habit](https://github.com/user-attachments/assets/a01ab14d-b6c4-4cf4-99f7-ad875d107af0)
 
 
+### 🧘🏻‍♀️ Meditation App 
+A meditation app with relaxing musics included.
+
+**Used**: AVKit, SwiftUI, Combine, MVVM, Audio-Player
+
+**For more detail**: https://github.com/esmakocak/MeditationApp
+
+![meditation](https://github.com/user-attachments/assets/29c3c403-9d90-4792-96f8-ee142893a83f)
+
 
 ### ✨ UI Tutorials
 SwiftUI design-focused tutorials and custom components like tab bars, shapes, and more.
@@ -85,13 +94,29 @@ This project is a simple To-Do application with using SwiftUI.
 ![todoapp](https://github.com/user-attachments/assets/e51c4f8e-1d24-4585-ada1-749bfc5e6cf7)
 
 
-### 🧘🏻‍♀️ Meditation App 
-A meditation app with relaxing musics included.
+### 🌤️ Weather App
+![weather](https://github.com/user-attachments/assets/668ab7e9-7f45-4dd0-9b6a-57a62247f4d2)
 
-**Used**: AVKit, SwiftUI, Combine, MVVM, Audio-Player
 
-**For more detail**: https://github.com/esmakocak/MeditationApp
 
-![meditation](https://github.com/user-attachments/assets/29c3c403-9d90-4792-96f8-ee142893a83f)
+### 🦕 JP Predators
+-Developed a mobile app extracts Jurassic Park dinosaur info from a JSON file. Used MapKit for interactive real-world dinosaur locations display.
+
+**Used**: SwiftUI, IMessage Stickers, MapKit. 
+
+**For more detail**: https://github.com/esmakocak/JPApexPredators
+
+![jpapex](https://github.com/user-attachments/assets/32bedc50-c35a-4937-bdf8-a296b1f7d82e)
+
+
+
+### 📱 Chat App
+Real-time Chat Application with Firebase Firestore
+
+**Used**: SwiftUI, Firebase Firestore, MVVM, Combine, Swift Concurrency.
+
+**For more detail**: https://github.com/esmakocak/ChatApp
+
+![image](https://github.com/user-attachments/assets/f6c0b4be-79a7-4d1e-bafd-df27bb6689ea)
 
 
