@@ -117,7 +117,8 @@ Real-time Chat Application with Firebase Firestore
 
 **For more detail**: https://github.com/esmakocak/ChatApp
 
-![chat](https://github.com/user-attachments/assets/9934ba82-fee7-42b3-85b5-d65de54e0954)
+![chatt](https://github.com/user-attachments/assets/c854eeff-319c-43f8-992d-b7332fe25254)
+
 
 
 
