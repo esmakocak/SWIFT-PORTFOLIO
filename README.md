@@ -84,3 +84,14 @@ This project is a simple To-Do application with using SwiftUI.
 
 ![todoapp](https://github.com/user-attachments/assets/e51c4f8e-1d24-4585-ada1-749bfc5e6cf7)
 
+
+### 🧘🏻‍♀️ Meditation App 
+A meditation app with relaxing musics included.
+
+**Used**: AVKit, SwiftUI, Combine, MVVM, Audio-Player
+
+**For more detail**: https://github.com/esmakocak/MeditationApp
+
+![meditation](https://github.com/user-attachments/assets/29c3c403-9d90-4792-96f8-ee142893a83f)
+
+
