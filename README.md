@@ -48,6 +48,16 @@ For more detail: https://github.com/esmakocak/FoodOrderApp
 ![foodorderapp](https://github.com/user-attachments/assets/fa2af8c6-c790-4bb9-9ef3-e25f09c19b64)
 
 
+### 🎨 Art Quiz 
+Art Quiz is a fun and engaging iOS app that challenges your knowledge of art history, famous paintings, artists, and more.
+
+**Used**: Fetches questions from the Open Trivia DB API. SwiftUI, Combine, MVVM Architecture. 
+
+For more detail: https://github.com/esmakocak/TriviaGame
+
+![artquiz](https://github.com/user-attachments/assets/4abcecc8-d0e2-453f-b8aa-8d8b3920b68a)
+
+
 ### 📝 To-Do App
 This project is a simple To-Do application with using SwiftUI.
 
@@ -56,4 +66,12 @@ This project is a simple To-Do application with using SwiftUI.
 For more detail: https://github.com/esmakocak/To-Do-App
 
 ![todoapp](https://github.com/user-attachments/assets/e51c4f8e-1d24-4585-ada1-749bfc5e6cf7)
+
+
+### ✨ UI Tutorials
+SwiftUI design-focused tutorials and custom components like tab bars, shapes, and more.
+
+For more detail: https://github.com/esmakocak/UITutorials
+
+![ui-tut](https://github.com/user-attachments/assets/496baa85-9bec-4b85-b7f7-c7d05f875ce3)
 
