@@ -7,6 +7,9 @@ Boothie is a minimal photo booth app built with SwiftUI, allowing users to creat
 
 For more detail: https://github.com/esmakocak/Boothie
 
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6744557942?platform=iphone)
+
+
 ![boothie](https://github.com/user-attachments/assets/97ac9db5-8444-455a-82c2-019013c6f336)
 
 
