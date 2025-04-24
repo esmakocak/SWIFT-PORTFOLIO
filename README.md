@@ -5,7 +5,7 @@ Boothie is a minimal photo booth app built with SwiftUI, allowing users to creat
 
 **Used**: SwiftUI, AVFoundation, AVKit, CoreImage, AppStorage, GeometryReader, User Settings
 
-For more detail: https://github.com/esmakocak/Boothie
+**For more detail**: https://github.com/esmakocak/Boothie
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6744557942?platform=iphone)
 
@@ -22,7 +22,7 @@ reminders, and keep their minds active by doing daily brain exercises with cogni
 
 **Used**: SwiftUI, CoreData, UserNotifications, CRUD Actions, AppStorage, Games & Haptics.
 
-For more detail: https://github.com/esmakocak/LifeBoard
+**For more detail**: https://github.com/esmakocak/LifeBoard
 
 ![lboard](https://github.com/user-attachments/assets/4596526e-ab83-445e-ba63-b4068e06df1e)
 
@@ -33,7 +33,7 @@ RecipeBox is a SwiftUI-based application designed to help you save and manage yo
 
 **Used**: SwiftUI, UserDefaults, Combine, CRUD, MVVM.
 
-For more detail: https://github.com/esmakocak/RecipeBox
+**For more detail**: https://github.com/esmakocak/RecipeBox
 
 ![recipebox](https://github.com/user-attachments/assets/9d7f7884-26d2-4ad5-8b9e-79f472f36fab)
 
@@ -43,7 +43,7 @@ A food ordering app built with SwiftUI.
 
 **Used**: SwiftUI, Firebase; Authentication & Firestore, CoreLocation.
 
-For more detail: https://github.com/esmakocak/FoodOrderApp
+**For more detail**: https://github.com/esmakocak/FoodOrderApp
 
 ![foodorderapp](https://github.com/user-attachments/assets/fa2af8c6-c790-4bb9-9ef3-e25f09c19b64)
 
@@ -53,9 +53,26 @@ Art Quiz is a fun and engaging iOS app that challenges your knowledge of art his
 
 **Used**: Fetches questions from the Open Trivia DB API. SwiftUI, Combine, MVVM Architecture. 
 
-For more detail: https://github.com/esmakocak/TriviaGame
+**For more detail**: https://github.com/esmakocak/TriviaGame
 
 ![artquiz](https://github.com/user-attachments/assets/4abcecc8-d0e2-453f-b8aa-8d8b3920b68a)
+
+
+### 🗓️ Habit Tracker
+**Used**: CoreData, Local & Scheduled Notifications, @FetchRequest & @ViewBuilder, MVVM.
+
+**For more detail**: https://github.com/esmakocak/HabitTracker
+
+![habit](https://github.com/user-attachments/assets/a01ab14d-b6c4-4cf4-99f7-ad875d107af0)
+
+
+
+### ✨ UI Tutorials
+SwiftUI design-focused tutorials and custom components like tab bars, shapes, and more.
+
+**For more detail**: https://github.com/esmakocak/UITutorials
+
+![ui-tut](https://github.com/user-attachments/assets/496baa85-9bec-4b85-b7f7-c7d05f875ce3)
 
 
 ### 📝 To-Do App
@@ -63,15 +80,7 @@ This project is a simple To-Do application with using SwiftUI.
 
 **Used**: MongoDB Realm for Data Storage
 
-For more detail: https://github.com/esmakocak/To-Do-App
+**For more detail**: https://github.com/esmakocak/To-Do-App
 
 ![todoapp](https://github.com/user-attachments/assets/e51c4f8e-1d24-4585-ada1-749bfc5e6cf7)
-
-
-### ✨ UI Tutorials
-SwiftUI design-focused tutorials and custom components like tab bars, shapes, and more.
-
-For more detail: https://github.com/esmakocak/UITutorials
-
-![ui-tut](https://github.com/user-attachments/assets/496baa85-9bec-4b85-b7f7-c7d05f875ce3)
 
