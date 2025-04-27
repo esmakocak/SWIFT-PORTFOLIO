@@ -27,6 +27,15 @@ reminders, and keep their minds active by doing daily brain exercises with cogni
 ![lboard](https://github.com/user-attachments/assets/4596526e-ab83-445e-ba63-b4068e06df1e)
 
 
+### ⏱️ Chrono
+Chrono is a minimalist focus & task-timer app designed to help you complete daily tasks with intention.
+
+**Used**: SwiftUI, Firebase Authentication, CoreData, Combine, AVFoundation, Concurrency, UserNotifications, UserDefaults, Calendar, AppStorage, Haptics, Custom Gestures, MVVM.
+
+**For more detail**: https://github.com/esmakocak/Chrono 
+
+![lboard](https://github.com/user-attachments/assets/4596526e-ab83-445e-ba63-b4068e06df1e)
+
 
 ### 🍜 Recipe Box
 RecipeBox is a SwiftUI-based application designed to help you save and manage your favorite recipes. The app allows you to categorize your recipes and easily add new ones.
