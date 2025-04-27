@@ -34,7 +34,8 @@ Chrono is a minimalist focus & task-timer app designed to help you complete dail
 
 **For more detail**: https://github.com/esmakocak/Chrono 
 
-![lboard](https://github.com/user-attachments/assets/4596526e-ab83-445e-ba63-b4068e06df1e)
+![chronoportfolio](https://github.com/user-attachments/assets/9deaffcd-dded-44b5-bc96-218d86e0adda)
+
 
 
 ### 🍜 Recipe Box
