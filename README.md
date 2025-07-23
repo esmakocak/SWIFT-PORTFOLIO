@@ -13,6 +13,16 @@ Boothie is a minimal photo booth app built with SwiftUI, allowing users to creat
 ![boothie](https://github.com/user-attachments/assets/97ac9db5-8444-455a-82c2-019013c6f336)
 
 
+### ☀️ Focus Power 
+FocusPower is a energy monitoring app, visualizes and exports solar and wind power plant data with interactive maps and charts.
+
+**Used**: SwiftUI, MapKit, SwiftCharts, Csv Export, MVVM.
+
+**For more detail**: https://github.com/esmakocak/FocusPower
+
+<img width="1800" height="1080" alt="SAVE" src="https://github.com/user-attachments/assets/023a27f2-249e-4ad9-845c-d5dcc38cbd7e" />
+
+
 
 ### 🧠 Life Board 
 LifeBoard is a SwiftUI app which designed to assist people with Alzheimer’s or memory-related issues
