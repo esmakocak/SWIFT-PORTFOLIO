@@ -9,8 +9,11 @@ Boothie is a minimal photo booth app built with SwiftUI, allowing users to creat
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6744557942?platform=iphone)
 
+<img width="2925" height="1755" alt="4" src="https://github.com/user-attachments/assets/6fc4f914-44fc-40b5-8d95-f60baa7cf149" />
 
-![boothie](https://github.com/user-attachments/assets/97ac9db5-8444-455a-82c2-019013c6f336)
+<img width="2275" height="1625" alt="3" src="https://github.com/user-attachments/assets/6bdc4c61-da61-4f00-84da-5e6cd6d3433a" />
+
+
 
 
 ### ☀️ Focus Power 
