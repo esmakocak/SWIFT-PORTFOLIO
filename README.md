@@ -1,5 +1,39 @@
 # SWIFT-PORTFOLIO
 
+### 🎙️ Poddigest 
+Poddigest is AI powered podcast summarizer. Helps you organize and enjoy podcasts smarter. 
+
+**Features & Techs:**
+
+- Built with SwiftUI.
+- Built transcription (Whisper API) and summarization (OpenAI GPT) pipeline with smart audio sampling & chunking for long episodes.
+- Integrated Supabase for authentication, transcript/summary caching, and serverless edge functions.
+- Added podcast discovery via iTunes Search API and RSS feed parsing, enabling category browsing and personalized recommendations.
+- Implemented in app purchases with StoreKit2
+
+(Developed and published for a client)
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/ca/app/poddigest-podcast-summarizer/id6751149685?platform=iphone)
+
+<img width="2500" height="3000" alt="Poddigest" src="https://github.com/user-attachments/assets/5c2653c3-0dd0-484d-842d-3be4a81d772d" />
+
+<img width="2500" height="3000" alt="Poddigest (2)" src="https://github.com/user-attachments/assets/c41c82ce-a43c-4749-bb06-2c9b0427917c" />
+
+
+
+### 🚀 ShipSessions 
+A modern macOS productivity app that helps users stay focused, organize projects, and track progress.
+
+**Used**: SwiftUI, SwiftCharts, Core Data, Combine.
+
+(Developed and published for a client)
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/tr/app/shipsessions-focus-timer/id6752296680?mt=12)
+
+<img width="2500" height="1900" alt="shipm" src="https://github.com/user-attachments/assets/650c034f-9d9c-46d9-a4d0-42bc62ed8cc5" />
+
+
+
 ### 📸 Boothie 
 Boothie is a minimal photo booth app built with SwiftUI, allowing users to create and save vintage style photostrips with live camera filters and date stamps. 
 
