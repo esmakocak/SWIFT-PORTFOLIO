@@ -33,6 +33,20 @@ A modern macOS productivity app that helps users stay focused, organize projects
 <img width="2500" height="1900" alt="shipm" src="https://github.com/user-attachments/assets/650c034f-9d9c-46d9-a4d0-42bc62ed8cc5" />
 
 
+### 🌟 Pixetta
+SwiftUI-based iOS app that generates personalized cartoon stickers from user photos using Gemini 2.5.
+
+**Used**: 
+- SwiftUI, UIKit, PhotosUI, Firebase.
+- Alamofire – For networking and API requests.
+- StoreKit2 – In-app purchases with sticker pack options
+- Combine – Reactive state and logic handling
+- Vision API and CoreImage: Removing background and produce transparent PNG outputs.
+- Gemini API: Gemini 2.5 for high-quality image generation.
+  
+<img width="2300" height="2500" alt="kml" src="https://github.com/user-attachments/assets/02242097-8d4e-4e4b-806a-644901f35b08" />
+
+
 
 ### 📸 Boothie 
 Boothie is a minimal photo booth app built with SwiftUI, allowing users to create and save vintage style photostrips with live camera filters and date stamps. 
